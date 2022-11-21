@@ -46,8 +46,8 @@ global.mods = []
 global.prems = []
 global.nomorbot = '60169689904'
 global.nomorown = '60176849904'
-global.nomorown1 = '6281361281833'
-global.nomorown2 = '6282376267531'
+global.nomorown1 = '60176849904'
+global.nomorown2 = '60176849904'
 global.nomorwa = '0'
 
 
@@ -56,7 +56,7 @@ global.nomorwa = '0'
 global.readMore = readMore
 global.author = 'Created By Adib'
 global.namebot = 'SULAIMAN BOT'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 SULAIMAN BOT'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 SULAIMAN'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
 global.wm2 = 'SULAIMAN BOT '
